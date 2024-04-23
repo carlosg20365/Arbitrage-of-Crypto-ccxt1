@@ -18,3 +18,14 @@ We welcome contributions from all skill levels and experience.
 Legal Disclaimer:
 
 This project is for educational and informational purposes only. Cryptocurrency arbitrage may involve significant risks, and it is important to fully understand the technical and regulatory aspects before engaging.
+
+
+![Captura de tela 2024-04-23 000321](https://github.com/carlosg20365/Arbitrage-of-Crypto-ccxt1/assets/121314260/bf0c4c01-354a-4e79-8783-80714bbdf4af)
+Afterwards, execute it in the main file; discrepancies.csv and arbitrage_log.log will appear
+![Captura de tela 2024-04-23 000620](https://github.com/carlosg20365/Arbitrage-of-Crypto-ccxt1/assets/121314260/8ea46f4d-9d0f-40fc-9b0c-857cc710571c)
+
+have any questions, feel free to reach out to me via 
+Twitter: @BolinhaXx
+Medium: https://medium.com/@Carrsos1
+Telegram: https://t.me/CarlosIVx
+I'll be happy to assist you further!
